@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/GPA-calc/static/css/main.258d10a3.css",
-    "main.js": "/GPA-calc/static/js/main.7d644a2a.js",
+    "main.css": "/GPA-calc/static/css/main.33a13dc4.css",
+    "main.js": "/GPA-calc/static/js/main.21ffe891.js",
     "static/js/453.5d3971b5.chunk.js": "/GPA-calc/static/js/453.5d3971b5.chunk.js",
+    "static/media/Add.svg": "/GPA-calc/static/media/Add.03d6b55d82b4cc8841af664424e507fb.svg",
     "index.html": "/GPA-calc/index.html",
-    "main.258d10a3.css.map": "/GPA-calc/static/css/main.258d10a3.css.map",
-    "main.7d644a2a.js.map": "/GPA-calc/static/js/main.7d644a2a.js.map",
+    "static/media/Cross.svg": "/GPA-calc/static/media/Cross.f7255bff33ce703fd8d16f9de28eb213.svg",
+    "static/media/Home.svg": "/GPA-calc/static/media/Home.bfe964ae0f0756f76b3b5a2cff688497.svg",
+    "main.33a13dc4.css.map": "/GPA-calc/static/css/main.33a13dc4.css.map",
+    "main.21ffe891.js.map": "/GPA-calc/static/js/main.21ffe891.js.map",
     "453.5d3971b5.chunk.js.map": "/GPA-calc/static/js/453.5d3971b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.258d10a3.css",
-    "static/js/main.7d644a2a.js"
+    "static/css/main.33a13dc4.css",
+    "static/js/main.21ffe891.js"
   ]
 }
